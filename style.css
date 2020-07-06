@@ -3,7 +3,7 @@
 }
 
 html {
-  box-sizing: inherit
+  box-sizing: inherit;
 }
 
 body {
@@ -12,7 +12,7 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  background: radial-gradient(circle, green, black)
+  background: radial-gradient(circle, green, black);
 }
 
 .calculator {
@@ -43,7 +43,7 @@ output {
   display: flex;
   flex-wrap: wrap;
   background-color: lightgray;
-  margin: auto
+  margin: auto;
 }
 
 button {
